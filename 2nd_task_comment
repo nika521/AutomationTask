@@ -1,2 +1,0 @@
-I'm using WebdriverIO with the devtools service. It runs Chrome in isolated sessions, which matches incognito behavior by design.
-WebdriverIO explicitly disallows setting --incognito manually when using DevTools because it already behaves that way.
